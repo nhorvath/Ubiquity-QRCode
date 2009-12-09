@@ -1,4 +1,4 @@
-Created by Nick Horvath <nhorvath@gmail.com>
+Created by Nick Horvath <nhorvath+git@gmail.com>
 
 Simple Ubiquity command to create QR Codes with the Google Chart API
 Once added to ubiquity use it with "qrcode [text to encode]"
